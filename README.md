@@ -6,3 +6,10 @@
 ```webbrowser.open_new_tab("")```
 
 ## Enjoy using the code :)
+
+```py
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|  [~] My Discord: R3W333#7701              |
+|  [~] My Github: https://github.com/r3w33  |
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+```
